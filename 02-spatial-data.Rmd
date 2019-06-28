@@ -58,6 +58,7 @@ This chapter will provide brief explanations of the fundamental geographic data 
 We will introduce the theory behind each data model and the disciplines in which they predominate, before demonstrating their implementation in R.
 
 The *vector data model* represents the world using points, lines and polygons.
+I need to add some changes.
 These have discrete, well-defined borders, meaning that vector datasets usually have a high level of precision (but not necessarily accuracy as we will see in Section \@ref(units)).
 The *raster data model* divides the surface up into cells of constant size.
 Raster datasets are the basis of background images used in web-mapping and have been a vital source of geographic data since the origins of aerial photography and satellite-based remote sensing devices.
